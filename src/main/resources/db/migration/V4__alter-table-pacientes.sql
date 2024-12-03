@@ -1,0 +1,3 @@
+ALTER TABLE pacientes
+ADD telefone VARCHAR(20) NOT NULL,
+ADD cpf VARCHAR(20) NOT NULL;
